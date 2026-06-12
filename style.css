@@ -189,6 +189,7 @@ nav {
   text-transform: uppercase;
   color: var(--accent);
   margin: 3rem 0 1.5rem;
+  font-weight: 700;
 }
 
 /* ── PROSE ── */
