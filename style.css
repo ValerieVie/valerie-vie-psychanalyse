@@ -157,7 +157,6 @@ nav {
 
 /* ── QUOTE BLOCK ── */
 .quote-block {
-  border-left: 2px solid var(--accent-light);
   margin: 2.5rem 0;
   padding: 1rem 2rem;
   background: var(--white);
